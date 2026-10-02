@@ -7,6 +7,8 @@ Versions are the runtime's `spec_version`, not [Semantic Versioning](https://sem
 
 ## [Unreleased]
 
+## [215] - 2026-10-02
+
 ### Added
 
 - Add `max_amount_out` to the EnergyBroker runtime API to query how much a swap path can supply
