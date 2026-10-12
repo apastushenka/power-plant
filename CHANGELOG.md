@@ -7,6 +7,12 @@ Versions are the runtime's `spec_version`, not [Semantic Versioning](https://sem
 
 ## [Unreleased]
 
+## [218] - 2026-10-12
+
+### Changed
+
+- Test entry for release 218
+
 ## [217] - 2026-10-12
 
 ### Changed
